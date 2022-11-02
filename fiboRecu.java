@@ -6,7 +6,7 @@ public class fiboRecu {
 	static int b = 1;
 	static int s;
 	int n = 30;
-
+	//adding methods
 	static void fiboRecu(int n)
 	{
 		if(n>0){
