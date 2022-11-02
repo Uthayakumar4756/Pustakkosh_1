@@ -5,7 +5,7 @@ public class fiboRecu {
 	static int a = 0;
 	static int b = 1;
 	static int s;
-	//int n = 10;
+	int n = 30;
 
 	static void fiboRecu(int n)
 	{
